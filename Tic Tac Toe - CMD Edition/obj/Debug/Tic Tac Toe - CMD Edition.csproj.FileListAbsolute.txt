@@ -1,0 +1,7 @@
+C:\Users\grautecnico\Desktop\Tic Tac Toe - CMD Edition\Tic Tac Toe - CMD Edition\bin\Debug\Tic Tac Toe - CMD Edition.exe.config
+C:\Users\grautecnico\Desktop\Tic Tac Toe - CMD Edition\Tic Tac Toe - CMD Edition\bin\Debug\Tic Tac Toe - CMD Edition.exe
+C:\Users\grautecnico\Desktop\Tic Tac Toe - CMD Edition\Tic Tac Toe - CMD Edition\bin\Debug\Tic Tac Toe - CMD Edition.pdb
+C:\Users\grautecnico\Desktop\Tic Tac Toe - CMD Edition\Tic Tac Toe - CMD Edition\obj\Debug\Tic Tac Toe - CMD Edition.csproj.AssemblyReference.cache
+C:\Users\grautecnico\Desktop\Tic Tac Toe - CMD Edition\Tic Tac Toe - CMD Edition\obj\Debug\Tic Tac Toe - CMD Edition.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\Desktop\Tic Tac Toe - CMD Edition\Tic Tac Toe - CMD Edition\obj\Debug\Tic Tac Toe - CMD Edition.exe
+C:\Users\grautecnico\Desktop\Tic Tac Toe - CMD Edition\Tic Tac Toe - CMD Edition\obj\Debug\Tic Tac Toe - CMD Edition.pdb
